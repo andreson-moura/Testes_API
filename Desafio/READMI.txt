@@ -1,0 +1,12 @@
+Na etapa do desafio, será necessário criar um microserviço de cadastro, edição e exclusão de usuário onde de ser salvo:
+Nome e email
+
+Será necessário realizar um teste no specflow utilizando BDD e garantir que:
+- Seja possível cadastrar um usuário apenas com nome;
+- Seja possível cadastrar um usuário com nome e email;
+- Não seja permitido salvar um usuário apenas com email;
+- Seja possível editar o email do usuário.
+
+
+Aguardo seu desafio até o dia 12/09.
+Email a ser enviado: juliane.ferreira@intelltech.com
